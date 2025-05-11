@@ -10,7 +10,7 @@ namespace intranet.dataaccess
     public class Constantes
     {
 
-       public const string CADENA_CONEXION = "server=DESKTOP-7POB2NJ\\SQLSERVER2019;database=bdgeneric;integrated security=true";
+       public const string CADENA_CONEXION = "server=.;database=bdgeneric;integrated security=true";
     //    String hostName = Dns.GetHostName();
     //    if (hostName == "DESKTOP-7POB2NJ")
     //    {
